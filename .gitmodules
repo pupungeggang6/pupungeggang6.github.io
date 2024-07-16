@@ -1,0 +1,6 @@
+[submodule "HTML-Game"]
+	path = HTML-Game
+	url = git@github.com:pupungeggang6/HTML-Game
+[submodule "UIRP-JS"]
+	path = UIRP-JS
+	url = git@github.com:pupungeggang6/UIRP-JS

@@ -1,10 +1,10 @@
-Neo�ձٸ�
+Neo둥근모
 Copyright ? 2017-2024, Eunbin Jeong (Dalgona.) <project-neodgm@dalgona.dev>
-with reserved font name "Neo�ձٸ�" and "NeoDunggeunmo".
+with reserved font name "Neo둥근모" and "NeoDunggeunmo".
 
 Copyright (c) 2017-2021, Eunbin Jeong (Dalgona.) <project-neodgm@dalgona.dev>
-with Reserved Font Name "Neo�ձٸ�",
-                        "Neo�ձٸ� Code",
+with Reserved Font Name "Neo둥근모",
+                        "Neo둥근모 Code",
                         "NeoDunggeunmo",
                         and "NeoDunggeunmo Code".
 

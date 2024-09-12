@@ -1,12 +1,6 @@
-[submodule "HTML-Game"]
-	path = HTML-Game
-	url = git@github.com:pupungeggang6/HTML-Game
 [submodule "UIRP-JS"]
 	path = UIRP-JS
 	url = git@github.com:pupungeggang6/UIRP-JS
-[submodule "HTML5-Game"]
-	path = HTML5-Game
-	url = git@github.com:pupungeggang6/HTML5-Game
 [submodule "BillboardManager"]
 	path = BillboardManager
 	url = git@github.com:pupungeggang6/BillboardManager

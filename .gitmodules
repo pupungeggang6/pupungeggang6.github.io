@@ -7,3 +7,6 @@
 [submodule "HTML5-Game"]
 	path = HTML5-Game
 	url = git@github.com:pupungeggang6/HTML5-Game
+[submodule "BillboardManager"]
+	path = BillboardManager
+	url = git@github.com:pupungeggang6/BillboardManager

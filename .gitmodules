@@ -1,6 +1,0 @@
-[submodule "UIRP-JS"]
-	path = UIRP-JS
-	url = git@github.com:pupungeggang6/UIRP-JS
-[submodule "BillboardManager"]
-	path = BillboardManager
-	url = git@github.com:pupungeggang6/BillboardManager
